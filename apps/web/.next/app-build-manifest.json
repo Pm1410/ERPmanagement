@@ -1,0 +1,205 @@
+{
+  "pages": {
+    "/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/login/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(auth)/management/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/dashboard/page.js"
+    ],
+    "/(auth)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/layout.js"
+    ],
+    "/(auth)/management/students/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/students/page.js"
+    ],
+    "/(auth)/management/students/new/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/students/new/page.js"
+    ],
+    "/(auth)/management/academics/classes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/academics/classes/page.js"
+    ],
+    "/(auth)/management/academics/subjects/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/academics/subjects/page.js"
+    ],
+    "/(auth)/management/library/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/library/page.js"
+    ],
+    "/(auth)/management/hostel/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/hostel/page.js"
+    ],
+    "/(auth)/management/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/settings/page.js"
+    ],
+    "/(auth)/management/grievances/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/grievances/page.js"
+    ],
+    "/(auth)/management/finance/collection/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/finance/collection/page.js"
+    ],
+    "/(auth)/management/finance/structures/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/finance/structures/page.js"
+    ],
+    "/(auth)/management/finance/defaulters/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/finance/defaulters/page.js"
+    ],
+    "/(auth)/management/finance/reports/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/management/finance/reports/page.js"
+    ],
+    "/(auth)/student/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/dashboard/page.js"
+    ],
+    "/(auth)/student/attendance/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/attendance/page.js"
+    ],
+    "/(auth)/student/assignments/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/assignments/page.js"
+    ],
+    "/(auth)/student/exams/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/exams/page.js"
+    ],
+    "/(auth)/student/fees/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/fees/page.js"
+    ],
+    "/(auth)/student/library/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/library/page.js"
+    ],
+    "/(auth)/student/materials/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/materials/page.js"
+    ],
+    "/(auth)/student/notices/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/student/notices/page.js"
+    ],
+    "/(auth)/faculty/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/dashboard/page.js"
+    ],
+    "/(auth)/faculty/attendance/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/attendance/page.js"
+    ],
+    "/(auth)/faculty/assignments/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/assignments/page.js"
+    ],
+    "/(auth)/faculty/materials/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/materials/page.js"
+    ],
+    "/(auth)/faculty/reports/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/reports/page.js"
+    ],
+    "/(auth)/faculty/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/faculty/settings/page.js"
+    ],
+    "/(auth)/profile/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/profile/page.js"
+    ],
+    "/(auth)/parent/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/dashboard/page.js"
+    ],
+    "/(auth)/parent/attendance/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/attendance/page.js"
+    ],
+    "/(auth)/parent/progress/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/progress/page.js"
+    ],
+    "/(auth)/parent/fees/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/fees/page.js"
+    ],
+    "/(auth)/parent/materials/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/materials/page.js"
+    ],
+    "/(auth)/parent/transport/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/transport/page.js"
+    ],
+    "/(auth)/parent/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/settings/page.js"
+    ],
+    "/(auth)/parent/messages/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/parent/messages/page.js"
+    ],
+    "/(auth)/settings/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(auth)/settings/page.js"
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "/(auth)/parent/dashboard/page": "app/(auth)/parent/dashboard/page.js",
+  "/(auth)/parent/attendance/page": "app/(auth)/parent/attendance/page.js",
+  "/(auth)/parent/transport/page": "app/(auth)/parent/transport/page.js",
+  "/(auth)/parent/progress/page": "app/(auth)/parent/progress/page.js",
+  "/(auth)/parent/messages/page": "app/(auth)/parent/messages/page.js"
+}
