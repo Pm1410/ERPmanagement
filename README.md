@@ -55,12 +55,7 @@ Refer to `apps/web/tailwind.config.ts` for standardized color palletes, typograp
 
 
 
-cd /home/prateek/newerp
-npm install
-npm run docker:up
-npm run db:migrate
-npm run db:seed
-npm run dev
+
 
 ## Production (single VM + Docker Compose)
 
